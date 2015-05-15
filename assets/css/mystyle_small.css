@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@media screen and (max-width: 750px) (max-width: 640px) {
+@media screen and (max-width: 750px) {
     /* Reset */
     
     html,
@@ -162,7 +162,7 @@
     #ham {
         display: inline-block;
         border: none;
-        color: black;
+        color: white;
     }
     a {
         text-decoration: none;
