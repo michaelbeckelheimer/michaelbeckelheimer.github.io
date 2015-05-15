@@ -139,7 +139,7 @@ main {
 /* My CSS Styles */
 
 body {
-    font-family: "Century Gothic";
+    font-family: "Century Gothic", "Helvetica", "Arial", sans-serif;
     background-color: white;
 }
 
